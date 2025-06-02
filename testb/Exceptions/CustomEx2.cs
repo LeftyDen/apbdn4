@@ -6,6 +6,8 @@ public class CustomEx2 : Exception
     {
     }
 
+    
+    
     public CustomEx2(string? message) : base(message)
     {
     }

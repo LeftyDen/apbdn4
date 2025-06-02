@@ -6,6 +6,9 @@ public class NoVisitEx : Exception
     {
     }
 
+    
+    
+    
     public NoVisitEx(string? message) : base(message)
     {
     }

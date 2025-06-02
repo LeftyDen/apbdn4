@@ -8,6 +8,8 @@ namespace Template.Controllers;
 [ApiController]
 [Route("api/[controller]")]
 public class VisitsController : ControllerBase
+
+
 {
     private readonly IDbService _dbService;
 
